@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "copilot-plugins": {
+      "command": "node",
+      "args": [
+        "/home/ubuntu/copilot-plugin-mcp-server/index.js"
+      ],
+      "env": {},
+      "disabled": false
+    }
+  }
+}
