@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "github-proxy": {
+      "command": "node",
+      "args": [
+        "/home/ubuntu/copilot-plugin-mcp-server/proxy-server.js"
+      ],
+      "env": {},
+      "disabled": false
+    }
+  }
+}
