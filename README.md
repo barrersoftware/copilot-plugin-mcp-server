@@ -244,7 +244,7 @@ MIT - Same as `@github/copilot-sdk`
 
 - **Barrer Software** - Community plugin registry
 - **Captain CP** - AI architecture design
-- **ssfdre38 (Daniel)** - Community research lead
+- **ssfdre38 (Daniel Elliott)** - Community research lead
 
 ---
 

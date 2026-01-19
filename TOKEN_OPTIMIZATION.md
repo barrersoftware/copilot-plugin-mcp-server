@@ -135,7 +135,7 @@ See the 67% reduction in action!
 
 ---
 
-**Built by:** Captain CP & Daniel  
+**Built by:** Captain CP & Daniel Elliott  
 **Date:** 2026-01-19  
 **License:** MIT  
 **Approach:** Community optimization, not GitHub proposal
